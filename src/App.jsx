@@ -68,7 +68,7 @@ export default function App() {
                                     setB(e.target.value);
                                 }}
                             />
-                            <p className="text-gray-500">B+</p>
+                            <p className="text-gray-500">X+</p>
                             <input
                                 type="text"
                                 className="bg-gray-100 rounded-sm w-12 p-1 outline-none"
